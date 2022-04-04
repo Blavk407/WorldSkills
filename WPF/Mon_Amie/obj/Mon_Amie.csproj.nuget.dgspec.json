@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WS\\WorldSkills\\Mon_Amie\\Mon_Amie\\Mon_Amie.csproj": {}
+    "D:\\WS\\WorldSkills\\WPF\\Mon_Amie\\Mon_Amie.csproj": {}
   },
   "projects": {
-    "D:\\WS\\WorldSkills\\Mon_Amie\\Mon_Amie\\Mon_Amie.csproj": {
+    "D:\\WS\\WorldSkills\\WPF\\Mon_Amie\\Mon_Amie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WS\\WorldSkills\\Mon_Amie\\Mon_Amie\\Mon_Amie.csproj",
+        "projectUniqueName": "D:\\WS\\WorldSkills\\WPF\\Mon_Amie\\Mon_Amie.csproj",
         "projectName": "Mon_Amie",
-        "projectPath": "D:\\WS\\WorldSkills\\Mon_Amie\\Mon_Amie\\Mon_Amie.csproj",
+        "projectPath": "D:\\WS\\WorldSkills\\WPF\\Mon_Amie\\Mon_Amie.csproj",
         "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
-        "outputPath": "D:\\WS\\WorldSkills\\Mon_Amie\\Mon_Amie\\obj\\",
+        "outputPath": "D:\\WS\\WorldSkills\\WPF\\Mon_Amie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Егор\\AppData\\Roaming\\NuGet\\NuGet.Config",

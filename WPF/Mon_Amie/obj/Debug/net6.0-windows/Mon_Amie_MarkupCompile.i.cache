@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\WS\WorldSkills\Mon_Amie\Mon_Amie\obj\Debug\net6.0-windows\
+D:\WS\WorldSkills\WPF\Mon_Amie\obj\Debug\net6.0-windows\
 Mon_Amie
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\WS\WorldSkills\Mon_Amie\Mon_Amie\App.xaml
-11407045341
+D:\WS\WorldSkills\WPF\Mon_Amie\App.xaml
+2-256674007
 
 51351504897
 1941645785384
-MainWindow.xaml;
+Image\Шапка.xaml;MainWindow.xaml;
 
 False
 
