@@ -2,19 +2,23 @@
 2) cd путь 
 или если нет на компе 
 git clone url_адрес
-3) git branch имя_ветки
+3) git branch имя_ветки 
+или
+если ветка уже существует то перейти на пункт 4
 4) git checkout имя_созданной ветки (Переключение между ветками)
 5) git add .
 6) git commit -m "Текст к коммиту"
-7) git merge сливаемая_ветка (если что-то не так, то разрешить конфликт)
-8) git push
-9) на сайте git hub создать pull requests 
+7) git checkout main
+8) git merge сливаемая_ветка (если что-то не так, то разрешить конфликт)
+9) git push
+10) на сайте git hub создать pull requests 
 Еще список комманд
 git status
 git log
 git revert (нужна для удаления ненужных коммитов)
 git remote
-Дима лох
+git pull
+git fetch
 
 
 
