@@ -13,6 +13,9 @@ git clone url_адрес
 git status
 git log
 git revert (нужна для удаления ненужных коммитов)
+git remote
+Дима лох
+
 
 
 
