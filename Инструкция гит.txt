@@ -4,7 +4,7 @@
 git clone url_адрес
 3) git branch имя_ветки 
 4) git checkout имя_созданной ветки (Переключение между ветками)
-5) git push origin имя_созданной_ветки
+5) git push -u origin имя_созданной_ветки
 6) git add .
 7) git commit -m "Текст к коммиту"
 8) git checkout main
