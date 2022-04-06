@@ -4,13 +4,14 @@
 git clone url_адрес
 3) git branch имя_ветки 
 4) git checkout имя_созданной ветки (Переключение между ветками)
-5) git add .
-6) git commit -m "Текст к коммиту"
-7) git checkout main
-8) git merge сливаемая_ветка (если что-то не так, то разрешить конфликт)
-9) git push
-10) на сайте git hub в оранжевом окне нажать на compare... и создать pull request, затем нажать merge; удалить ветку
-11) на сайте git hub создать pull requests 
+5) git push origin имя_созданной_ветки
+6) git add .
+7) git commit -m "Текст к коммиту"
+8) git checkout main
+9) git merge сливаемая_ветка (если что-то не так, то разрешить конфликт)
+10) git push
+11) на сайте git hub в оранжевом окне нажать на compare... и создать pull request, затем нажать merge; удалить ветку
+12) на сайте git hub создать pull requests 
 Еще список комманд
 git status
 git log
